@@ -16,7 +16,7 @@ public class myGuiProgram extends Frame {
     public static void main(String[] args) {
         myGuiProgram gui;
         gui = new myGuiProgram();
-        //making progress....
+        //making progress.....
     }
 
 }
